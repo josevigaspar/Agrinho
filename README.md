@@ -1,5 +1,3 @@
-<div class="readme-wrapper">
-
 <h1>Do Plantio à Mesa 🌱🍽️<br><small>Festejando a Conexão Campo-Cidade</small></h1>
 
 <blockquote>
@@ -71,7 +69,7 @@ e reforçado por ilustrações e animações feitas só em CSS.
 <pre><code>.
 ├─ index.html        # página única
 ├─ styles.css        # layout, temas, animações
-├─ README.md         # você está aqui 🙂
+├─ README.md         # você está aqui
 └─ assets/           # favicon, capturas, edital.pdf
 </code></pre>
 
@@ -84,7 +82,7 @@ e reforçado por ilustrações e animações feitas só em CSS.
 <li><strong>#jornada</strong> – Linha do tempo logística</li>
 <li><strong>#industria</strong> – Queijo 3-D em CSS</li>
 <li><strong>#consumo</strong> – Grid “Zero Desperdício”</li>
-<li><strong>#historias</strong> – 4 cases reais de Douradina-PR</li>
+<li><strong>#historias</strong> – 4 cases de Douradina-PR</li>
 <li><strong>#faq</strong> – Perguntas frequentes (<code>&lt;details&gt;</code>)</li>
 <li><strong>#quiz</strong> – Quiz via checkboxes + CSS</li>
 <li><strong>#acao</strong> – Chamada para compartilhar histórias</li>
@@ -131,5 +129,3 @@ Contato: <a href="mailto:josevinicius@email.com">josevinicius@email.com</a></p>
 <blockquote>
 “Cada semente carrega uma história; cada prato, uma escolha.”
 </blockquote>
-
-</div>
