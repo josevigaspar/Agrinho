@@ -1,15 +1,3 @@
-<style>
-/* pequenas melhorias visuais para a renderização no GitHub */
-.readme-wrapper h1   { font-size:2.1rem; margin:0.4em 0; text-align:center; }
-.readme-wrapper h2   { font-size:1.35rem; color:#2a6f4c; margin-top:1.6em; }
-.readme-wrapper h3   { font-size:1.15rem; margin-top:1.1em; }
-.readme-wrapper code, pre { background:#f6f8fa; padding:0.15em 0.4em; border-radius:4px; }
-.readme-wrapper table { border-collapse:collapse; }
-.readme-wrapper th, td { border:1px solid #ddd; padding:6px 10px; }
-.readme-wrapper th { background:#f0f0f0; }
-blockquote { border-left:4px solid #f6b013; padding-left:0.8em; color:#555; }
-</style>
-
 <div class="readme-wrapper">
 
 <h1>Do Plantio à Mesa 🌱🍽️<br><small>Festejando a Conexão Campo-Cidade</small></h1>
